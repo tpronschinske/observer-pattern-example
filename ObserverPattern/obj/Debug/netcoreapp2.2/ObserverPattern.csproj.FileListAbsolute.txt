@@ -1,0 +1,11 @@
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.deps.json
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.runtimeconfig.json
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.runtimeconfig.dev.json
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\bin\Debug\netcoreapp2.2\ObserverPattern.pdb
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.AssemblyInfo.cs
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\ObserverPattern\ObserverPattern\ObserverPattern\obj\Debug\netcoreapp2.2\ObserverPattern.pdb
